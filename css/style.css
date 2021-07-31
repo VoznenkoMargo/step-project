@@ -234,6 +234,7 @@ body {
    display: flex;
    flex-direction: column;
    justify-content: space-between;
+   align-items: center;
 }
 
 .options-item:nth-child(2n+1) {
@@ -249,9 +250,12 @@ body {
 }
 
 .options-item-icon {
-   display: inline-block;
+   display: block;
    margin-bottom: 47px;
+   text-align: center;
 }
+
+
 
 .services {
    background: #FFFFFF;
