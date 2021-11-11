@@ -3,5 +3,5 @@ https://voznenkomargo.github.io/step-project/
 
 - hmtl
 - css
-- javascript (jQuery)
+- javascript (native)
 - flexbox and grid
