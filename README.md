@@ -1,5 +1,5 @@
 # theHAM theme website (without adaptive)
-https://voznenkomargo.github.io/step-project/
+https://voznenkomargo.github.io/theHam/
 
 - hmtl
 - css
